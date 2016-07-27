@@ -1,0 +1,6 @@
+C:\development-research\MISC\coding-funs\cooldown\misc\bin\Debug\misc.exe.config
+C:\development-research\MISC\coding-funs\cooldown\misc\bin\Debug\misc.exe
+C:\development-research\MISC\coding-funs\cooldown\misc\bin\Debug\misc.pdb
+C:\development-research\MISC\coding-funs\cooldown\misc\obj\Debug\misc.csprojResolveAssemblyReference.cache
+C:\development-research\MISC\coding-funs\cooldown\misc\obj\Debug\misc.exe
+C:\development-research\MISC\coding-funs\cooldown\misc\obj\Debug\misc.pdb

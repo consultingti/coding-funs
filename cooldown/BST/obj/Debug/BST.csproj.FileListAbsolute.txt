@@ -1,0 +1,6 @@
+C:\development-research\MISC\coding-funs\cooldown\BST\bin\Debug\BST.exe.config
+C:\development-research\MISC\coding-funs\cooldown\BST\bin\Debug\BST.exe
+C:\development-research\MISC\coding-funs\cooldown\BST\bin\Debug\BST.pdb
+C:\development-research\MISC\coding-funs\cooldown\BST\obj\Debug\BST.csprojResolveAssemblyReference.cache
+C:\development-research\MISC\coding-funs\cooldown\BST\obj\Debug\BST.exe
+C:\development-research\MISC\coding-funs\cooldown\BST\obj\Debug\BST.pdb

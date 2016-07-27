@@ -1,0 +1,5 @@
+C:\development-research\MISC\coding-funs\cooldown\factorial\bin\Debug\factorial.exe.config
+C:\development-research\MISC\coding-funs\cooldown\factorial\bin\Debug\factorial.exe
+C:\development-research\MISC\coding-funs\cooldown\factorial\bin\Debug\factorial.pdb
+C:\development-research\MISC\coding-funs\cooldown\factorial\obj\Debug\factorial.exe
+C:\development-research\MISC\coding-funs\cooldown\factorial\obj\Debug\factorial.pdb

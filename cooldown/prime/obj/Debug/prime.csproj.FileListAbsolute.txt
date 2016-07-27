@@ -1,0 +1,6 @@
+C:\development-research\MISC\coding-funs\cooldown\prime\bin\Debug\prime.exe.config
+C:\development-research\MISC\coding-funs\cooldown\prime\bin\Debug\prime.exe
+C:\development-research\MISC\coding-funs\cooldown\prime\bin\Debug\prime.pdb
+C:\development-research\MISC\coding-funs\cooldown\prime\obj\Debug\prime.csprojResolveAssemblyReference.cache
+C:\development-research\MISC\coding-funs\cooldown\prime\obj\Debug\prime.exe
+C:\development-research\MISC\coding-funs\cooldown\prime\obj\Debug\prime.pdb
